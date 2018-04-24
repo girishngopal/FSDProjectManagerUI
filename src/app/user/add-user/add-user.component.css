@@ -1,0 +1,14 @@
+.row-centered {
+    text-align: center;
+}
+
+.row-right {
+    text-align: right;
+}
+
+.error {
+    font-size: 13px;
+    color: #c7254e;
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }

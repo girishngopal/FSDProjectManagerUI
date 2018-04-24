@@ -1,0 +1,23 @@
+.row-centered {
+    text-align: center;
+}
+
+.row-right {
+    text-align: right;
+    padding-right: 2%;
+}
+
+.checkbox-padding {
+    padding-left: 5px;
+}
+
+.middleVert {
+    padding-top: 7%;
+}
+.middleVert1 {
+    height: 20px;
+}
+
+.text-danger {
+    color: red;
+}
